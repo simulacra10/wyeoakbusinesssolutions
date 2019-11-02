@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.wyeoak.info"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Wye Oak Business Solutions"
+theme = "wyeoak"
